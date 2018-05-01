@@ -1,7 +1,7 @@
 {
     "name": "jjware/tailcall",
     "description": "PHP TailCall sum type",
-    "keywords": ["tailcall", "recursion", "tail recursiion"],
+    "keywords": ["tailcall", "recursion", "tail recursion"],
     "type": "library",
     "license": "MIT",
     "authors": [{
